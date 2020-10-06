@@ -1,0 +1,19 @@
+.Home ul{
+    list-style: none;
+    width: 95%;
+    text-align: center;
+}
+.Home li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.Home a {
+    text-decoration: none;
+    color: black;
+}
+
+.Home a:hover,
+.Home a.active{
+    color: orange
+}
